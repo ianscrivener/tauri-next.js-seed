@@ -1,6 +1,8 @@
-# Tauri + Vanilla
+# Tauri + Next.js
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+This template should help get you started developing with Tauri and Next.js
+ - Tauri v2.8.5 
+ - Next.js v14.2.3 
 
 ## Recommended IDE Setup
 
